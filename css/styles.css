@@ -1,0 +1,14 @@
+  body {background-color:#caf7e3;}
+
+  hr {border-style: none;
+      border-top: 20px dotted #9ddfd3;
+      width: 10%;
+      text-align: center;
+      }
+
+h1,h3{
+  color: #96bb7c;
+}
+
+.circular {border-radius: 100%}
+.hover:hover {background-color: #ff7a00;}
